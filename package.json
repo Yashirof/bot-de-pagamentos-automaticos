@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "2.0.0",
+  "description": "bot de vendas automáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "six",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "axios": "^0.27.2",
+    "discord.js": "^13.12.0",
+    "fs-constants": "^1.0.0",
+    "mercadopago": "^1.5.13",
+    "moment": "^2.29.4",
+    "tar-fs": "^2.1.1",
+    "wio.db": "^4.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}

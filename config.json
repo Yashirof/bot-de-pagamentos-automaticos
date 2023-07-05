@@ -1,0 +1,17 @@
+{
+    "token": "TOKEN DO BOT",
+    "access_token": "",
+    "status": "desenvolvido por yashirof",
+    "prefix": "!",
+    "owner": "ID do Owner",
+    "logs": "",
+    "logs_staff": "",
+    "category": "",
+    "title": "Nome do BOT",
+    "cargo": "cargo cliente",
+    "color": "#000000",
+    "thumbnail": "",
+    "role": "cargo cliente",
+    "canaldevoz": "ID do canal de voz",
+    "banner": ""
+}
