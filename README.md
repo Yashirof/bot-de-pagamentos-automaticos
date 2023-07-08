@@ -34,6 +34,8 @@ Discord.js (biblioteca JavaScript para integração com o Discord)
 Antes de executar o bot, é necessário configurar algumas informações no arquivo config.json.
 
 token: O token de autenticação do seu bot Discord. Você pode obter esse token ao registrar um bot no Portal de Desenvolvedores do Discord.
+
+caso precise de ajuda me chame no discord > yashirof
 prefix: O prefixo que será utilizado para identificar os comandos do bot. Por exemplo, se definido como "!", os comandos serão iniciados com !.
 Certifique-se de que as informações de configuração estejam corretas para garantir o funcionamento adequado do bot.
 
